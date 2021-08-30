@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*Head section*/
+.head{
+    height: 100px;
+    width: 100%;
+    border-bottom: 1px solid rgb(10, 10, 10,.2);
+}
+
+.head-left{
+    height: 100px;
+    width: 15%;
+   
+    float: left;
+}
+.head-right{
+    height: 100px;
+    width: 15%;
+   
+    float:right;
+}
+.right-icon{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left:160px ;
+   
+}
+.head-center{
+    height: 100px;
+    width: 70%;
+   
+    float: left;
+}
+.head-center img{
+    width: 200px;
+}
+.center{
+    text-align: center;
+    margin-top: 10px;
+}
+.icons{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.head-left p{
+    font-size: 18px;
+    margin-top: 10px;
+    color: rgb(27, 27, 27);
+}
+/*Menu section*/
+.menu{
+    border-bottom: 2px solid rgb(14, 14, 14,.3);
+}
+.menu ul{
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*Blog section*/
+.blog{
+    height: 250px;
+    width: 100%;
+    padding-bottom: 50px;
+    border-bottom: 1px solid rgb(14, 14, 14,.2);
+   
+}
+.blog-1{
+    height: 250px;
+    width: 25%;
+   
+    float: left;
+}
+.blog-1 h2{
+    font-family:'Merriweather', serif;
+    color: black;
+   
+}
+.para{
+    font-family:'Merriweather', serif;
+    margin-top: 10px;
+    color: rgb(70, 67, 67);
+    font-size: 13px;
+    line-height: 20.4px;
+}
+.blog-2{
+    height: 250px;
+    width: 25%;
+    border-right: 1px solid rgb(14, 14, 14,.2);
+    float: left;
+}
+.blog-2 img{
+    width: 95%;
+    margin-top: 30px;
+    height: 200px;
+   
+}
+.blog-2 p{
+    font-family:'Merriweather', serif;
+   
+    color: rgb(70, 67, 67);
+    font-size: 12px;
+}
+.blog-3{
+    height: 250px;
+    width: 24%;
+   
+    float: left;
+}
+.blog-3 img{
+    width: 100px;
+    
+}
+
+.blog-4{
+    height: 250px;
+    width: 24%;
+   
+    float: right;
+    border-left: 1px solid rgb(14, 14, 14,.2);
+}
+.blog-4 img{
+    width: 100%;
+    height: 250px;
+    margin-left: 10px;
+}
+.section{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+/*new blog*/
+.nb{
+    padding-top: 20px;
+}
+.nb .nb-1{
+    height: 100px;
+    width: 25%;
+    
+    float: left;
+}
+.nb .nb-2{
+    height: 100px;
+    width: 25%;
+   
+    float: left;
+}
+.nb .nb-3{
+    height: 100px;
+    width: 25%;
+  
+    float: left;
+}
+.nb .nb-4{
+    height: 100px;
+    width: 25%;
+   
+    float: left;
+}
+.nb img{
+    height: 100px;
+    width: 30%;
+    float: left;
+    margin-right: 15px;
+}
+.nb h2{
+    font-family:'Merriweather', serif;
+    line-height: 188%;
+    font-size: 18px;
+    color: black;
+}
+
+
+
+
